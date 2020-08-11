@@ -8,9 +8,9 @@
 
 ___
 
-**About Me**
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
-I don't know:v  
 ___
+
 **Stats**
 ![MhankBarBar github stats](https://github-readme-stats.vercel.app/api?username=mhankbarbar&show_icons=true&title_color=000&icon_color=79ff97&text_color=000)
