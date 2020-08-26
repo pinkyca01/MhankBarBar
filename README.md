@@ -10,4 +10,8 @@ ___
 ___
 
 **Stats**
-![MhankBarBar github stats](https://github-readme-stats.vercel.app/api?username=mhankbarbar&show_icons=true&title_color=000&icon_color=79ff97&text_color=000)
+![MhankBarBar github stats](https://github-readme-stats.vercel.app/api?username=mhankbarbar&show_icons=true&theme=dark)
+
+___
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhankbarbar&theme=dark)
