@@ -14,4 +14,4 @@ ___
 
 ___
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhankbarbar&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhankbarbar&theme=dark&hide=css)
