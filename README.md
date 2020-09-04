@@ -8,7 +8,8 @@ ___
 
 ___
 
-![MhankBarBar github stats](https://github-readme-stats.vercel.app/api?username=mhankbarbar&show_icons=true&theme=dark)
+![MhankBarBar github stats](https://github-readme-stats.vercel.app/api?username=mhankbarbar&show_icons=true&theme=dark&show_owner=true)
 ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhankbarbar&theme=dark&hide=css,html)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=whatsapp-bot)](https://github.com/mhankbarbar/whatsapp-bot)
