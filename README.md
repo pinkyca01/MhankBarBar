@@ -1,7 +1,5 @@
-## Ya Halooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<img src="https://avatars1.githubusercontent.com/u/55822959?s=400&u=4b2368bf7bee0de2b74e972095f38ec4c369247e&v=4" width="70" height="70px" align="right" border="5">
-<img align="left" alt="GIF" height="70px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"><img align="center" alt="GIF" height="70px" src="https://media1.giphy.com/media/xUPGcB7dYAIBjMG2CQ/giphy.gif"/>
-
+## Haloo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm MhankBarBar
+<img align="center" height="auto" src="https://github.com/MhankBarBar/MhankBarBar/blob/master/img/images%20(15).jpeg"/>
 ___
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
